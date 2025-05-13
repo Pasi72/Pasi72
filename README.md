@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on **PeraBots 2025**
+- 🔭 I’m currently working on **PeraBots'25**
 
 - 🌱 I’m currently learning **Webots, more about Arduino**
 
-- 👯 My recent projects are **Brainstorm'25 (Related to Biomedical Innovations), SLRC'25 (Sri Lanka Robotics Challenge 2025), FinnC'25 (Future Innovators Challenge 2025)**
+- 👯 My recent projects are **Brainstorm'25 (Biomedical Innovations), SLRC'25 (Sri Lanka Robotics Challenge 2025), FinnC'25 (Future Innovators Challenge 2025)**
 
 - 💬 Ask me about **Arduino**
 
