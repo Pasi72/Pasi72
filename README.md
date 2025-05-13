@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Jayawardana</h1>
-<h3 align="center">A passionate Arduino enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate Arduino Enthusiast from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pasi72&label=Profile%20views&color=0e75b6&style=flat" alt="pasi72" /> </p>
 
