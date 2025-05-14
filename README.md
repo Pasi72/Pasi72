@@ -27,7 +27,7 @@
   
 - 🤖 **Robotics | Arduino | Arduino IDE**
   
-- 🎯 **HackerRank (5★ Coder, Certified in Python (Basics))**
+- 🎯 **HackerRank ( 5★ Coder, Certified in Python Basics )**
 
 ---
 
