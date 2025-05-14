@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Other Skills
+### 🎯 Other Skills
 
 - 🧑‍💻 **Team Projects | Critical Thinking**
 
