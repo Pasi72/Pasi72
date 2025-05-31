@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PeraBots'25**
 
-- 🌱 I’m currently learning **Webots, Arduino & Robotics**
+- 🌱 I’m currently learning **Webots, SolidWorks and Arduino & Robotics**
 
 - 👯 My recent projects are **Brainstorm'25 (Biomedical Innovations), SLRC'25 (Sri Lanka Robotics Challenge 2025), FinnC'25 (Future Innovators Challenge 2025)**
 
@@ -25,9 +25,11 @@
 
 - 🧑‍💻 **Python, C, C++**
   
-- 🤖 **Robotics | Arduino | Arduino IDE**
-  
-- 🎯 **HackerRank ( 5★ Coder, Certified in Python Basics )**
+- 🤖 **Robotics & Automation | Arduino | Arduino IDE | WeBots**
+
+- ⚡ **Power Systems Enthusiast | Electronics**
+ 
+- 🏅 **HackerRank ( 5★ Coder, Certified in Python Basics )**
 
 ---
 
