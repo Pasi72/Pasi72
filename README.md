@@ -7,15 +7,13 @@
 
 ---
 
-- 🔭 I’m currently working on **PeraBots'25**
+- 🌱 I’m currently learning **Electronics and Power Generation based things**
 
-- 🌱 I’m currently learning **Webots, SolidWorks and Arduino & Robotics**
+- 👯 My recent projects are **Brainstorm'25 (Biomedical Innovations), SLRC'25 (Sri Lanka Robotics Challenge 2025), FinnC'25 (Future Innovators Challenge 2025), PeraBots'25**
 
-- 👯 My recent projects are **Brainstorm'25 (Biomedical Innovations), SLRC'25 (Sri Lanka Robotics Challenge 2025), FinnC'25 (Future Innovators Challenge 2025)**
+- 💬 Ask me about **Electrical Fundamentals, Codings (Python, C, C++) and Electronics**
 
-- 💬 Ask me about **Electrical Fundamentals, Arduino Robotics & Codings (Python, C, C++) and Electronics**
-
-- 🖥️ Interested in  **Arduino Robotics & IoT**
+- 🖥️ Interested in  **Power Electronics & IoT**
 
 - 📫 How to reach me **kppjayawardana2003@gmail.com**
 
@@ -25,7 +23,7 @@
 
 - 🧑‍💻 **Python, C, C++**
   
-- 🤖 **Robotics & Automation | Arduino | Arduino IDE | WeBots**
+- 🤖 **Automation | PCB Designing | SolidWorks | MATLAB Simulink | Arduino | Arduino IDE | WeBots**
 
 - ⚡ **Power Systems Enthusiast | Electronics**
  
