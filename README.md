@@ -27,7 +27,7 @@
 
 - ⚡ **Power Systems Enthusiast | Electronics**
  
-- 🏅 **HackerRank ( 5★ Coder, Certified in Python Basics )**
+- 🏅 **HackerRank ( 5★ Coder, Certified in Python Problem Solving Basics, Certified in Python Basics )**
 
 ---
 
@@ -45,7 +45,7 @@
 
 - 🏆 **5★ HackerRank**
 
-- 🌟 **HackerRank Python Basics Certification**
+- 🌟 **HackerRank Python Problem Solving Basics and Python Basics Certification**
 
 - 👋 **Certified for the participation in SLRC'25**
 
